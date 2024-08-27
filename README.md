@@ -2,7 +2,8 @@
 I am a Game Designer
 
 
-![]<img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFpdGZzc3htaWg4MjU2MThvNjE0dWhzcGs3ODNmbmxldjdvdnI0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xc3R3j4KFMvH01ZWaJ/giphy.webp)" width="500" height="300">
+
+<img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFpdGZzc3htaWg4MjU2MThvNjE0dWhzcGs3ODNmbmxldjdvdnI0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xc3R3j4KFMvH01ZWaJ/giphy.webp)" width="500" height="300">
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thecodedrealmm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/enes-aydin-business) 
