@@ -24,13 +24,13 @@ I am a passionate **Game Designer** with a knack for creating immersive gaming e
 Here are some of my notable projects:
 
 ### 🎮 [Project Title 1](#)
-A brief description of this project. What it does, and what you contributed.
+
 
 ### 🕹️ [Project Title 2](#)
-A brief description of this project. Highlight any unique mechanics or features.
+
 
 ### 🌟 [Project Title 3](#)
-A brief description of this project. Discuss your role in development and design.
+
 
 ## GitHub Stats
 ![EnesAydinBusiness's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnesAydinBusiness&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
