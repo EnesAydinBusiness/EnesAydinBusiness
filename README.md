@@ -1,7 +1,7 @@
 # 🎮 Enes Aydın - Game Designer & Developer
 
 ![Header](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQzZml0aGk3NmV6eGJ0cXR0Z3d0cG1semszcXVucGszcWp5MjA3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KuxQiLmoP9ldZHWszC/giphy.webp)
-
+![](https://media2.giphy.com/media/Xc3R3j4KFMvH01ZWaJ/giphy.webp?width=800&height=400)
 ## About Me
 I am a passionate **Game Designer** with a knack for creating immersive gaming experiences. My journey in game design blends creativity with technical expertise, resulting in innovative and engaging gameplay mechanics. I specialize in **3D Modeling**, **Game Mechanics Coding**, and **Unity** development.
 
